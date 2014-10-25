@@ -1,4 +1,4 @@
-Mozilla-Data
+Mozilla-Data (HMRC tax exempt art)
 ============
 
 All items in the dataset by county (tab separated)
