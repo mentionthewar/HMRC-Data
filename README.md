@@ -1,8 +1,9 @@
 HMRC Database of tax exempt art
 ============
 
-All items in the dataset by county (tab separated)
+HMRC-data*.tsv is the most recent file, containing all artworks, post some rudimentary data cleaning and a first attempt to extract artist name from the full text descriptions.
 
-All items in the dataset with IDs and contact details (# separated)
+HMRC objects by county contains limited location data for the objects. This data is stored separately by HMRC. Only the descripton field is common to both tables.
 
-(HMRC helpfully maintain these in separate tables but the description field is common to both)
+te-art.txt is the original scraped data from the HMRC wesbite.
+
